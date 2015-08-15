@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 3bed7ce2ba63e45159d9dcf60afb40c5
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back bars
+    100002: base bars
+    100004: Camera
+    100006: Cap 1
+    100008: Cap 1.2
+    100010: Cap 1.3
+    100012: Cap 2
+    100014: Cap 2.2
+    100016: Cap 2.3
+    100018: Capsule
+    100020: Capsule.1
+    100022: Capsule.1.2
+    100024: Capsule.2
+    100026: Capsule.2.2
+    100028: Capsule.2.3
+    100030: //RootNode
+    100032: Cube
+    100034: Cube.1
+    100036: Cube.1.2
+    100038: Cube.2
+    100040: Cube.2.2
+    100042: Cube.2.3
+    100044: Cube.3
+    100046: Cube.3.2
+    100048: Cube.4
+    100050: Cube.4.2
+    100052: Cube.5
+    100054: Cube.5.2
+    100056: Cube.6
+    100058: Cube.6.2
+    100060: Cube.7
+    100062: Cube.7.2
+    100064: Extrude NURBS
+    100066: Extrude NURBS.1
+    100068: Extrude NURBS.1.2
+    100070: Extrude NURBS.2
+    100072: Extrude NURBS.2.2
+    100074: Extrude NURBS.2.3
+    100076: Light
+    100078: Light.1
+    100080: mainbody
+    100082: Nails
+    100084: Nails.2
+    100086: Null
+    100088: Null.2
+    100090: Null.3
+    100092: Null.4
+    100094: Plane
+    100096: Rounding 1
+    100098: Rounding 1.2
+    100100: Rounding 1.3
+    100102: Rounding 2
+    100104: Rounding 2.2
+    100106: Rounding 2.3
+    100108: Seat
+    100110: Seat bars
+    100112: Spline
+    100114: Spline.2
+    100116: Spline.3
+    400000: back bars
+    400002: base bars
+    400004: Camera
+    400006: Cap 1
+    400008: Cap 1.2
+    400010: Cap 1.3
+    400012: Cap 2
+    400014: Cap 2.2
+    400016: Cap 2.3
+    400018: Capsule
+    400020: Capsule.1
+    400022: Capsule.1.2
+    400024: Capsule.2
+    400026: Capsule.2.2
+    400028: Capsule.2.3
+    400030: //RootNode
+    400032: Cube
+    400034: Cube.1
+    400036: Cube.1.2
+    400038: Cube.2
+    400040: Cube.2.2
+    400042: Cube.2.3
+    400044: Cube.3
+    400046: Cube.3.2
+    400048: Cube.4
+    400050: Cube.4.2
+    400052: Cube.5
+    400054: Cube.5.2
+    400056: Cube.6
+    400058: Cube.6.2
+    400060: Cube.7
+    400062: Cube.7.2
+    400064: Extrude NURBS
+    400066: Extrude NURBS.1
+    400068: Extrude NURBS.1.2
+    400070: Extrude NURBS.2
+    400072: Extrude NURBS.2.2
+    400074: Extrude NURBS.2.3
+    400076: Light
+    400078: Light.1
+    400080: mainbody
+    400082: Nails
+    400084: Nails.2
+    400086: Null
+    400088: Null.2
+    400090: Null.3
+    400092: Null.4
+    400094: Plane
+    400096: Rounding 1
+    400098: Rounding 1.2
+    400100: Rounding 1.3
+    400102: Rounding 2
+    400104: Rounding 2.2
+    400106: Rounding 2.3
+    400108: Seat
+    400110: Seat bars
+    400112: Spline
+    400114: Spline.2
+    400116: Spline.3
+    2300000: Cap 1
+    2300002: Cap 1.2
+    2300004: Cap 1.3
+    2300006: Cap 2
+    2300008: Cap 2.2
+    2300010: Cap 2.3
+    2300012: Capsule
+    2300014: Capsule.1
+    2300016: Capsule.2
+    2300018: Cube
+    2300020: Cube.1
+    2300022: Cube.1.2
+    2300024: Cube.2
+    2300026: Cube.2.2
+    2300028: Cube.2.3
+    2300030: Cube.3
+    2300032: Cube.3.2
+    2300034: Cube.4
+    2300036: Cube.4.2
+    2300038: Cube.5
+    2300040: Cube.5.2
+    2300042: Cube.6
+    2300044: Cube.6.2
+    2300046: Cube.7
+    2300048: Cube.7.2
+    2300050: Extrude NURBS
+    2300052: Extrude NURBS.1
+    2300054: Extrude NURBS.2
+    2300056: Plane
+    2300058: Rounding 1
+    2300060: Rounding 1.2
+    2300062: Rounding 1.3
+    2300064: Rounding 2
+    2300066: Rounding 2.2
+    2300068: Rounding 2.3
+    3300000: Cap 1
+    3300002: Cap 1.2
+    3300004: Cap 1.3
+    3300006: Cap 2
+    3300008: Cap 2.2
+    3300010: Cap 2.3
+    3300012: Capsule
+    3300014: Capsule.1
+    3300016: Capsule.2
+    3300018: Cube
+    3300020: Cube.1
+    3300022: Cube.1.2
+    3300024: Cube.2
+    3300026: Cube.2.2
+    3300028: Cube.2.3
+    3300030: Cube.3
+    3300032: Cube.3.2
+    3300034: Cube.4
+    3300036: Cube.4.2
+    3300038: Cube.5
+    3300040: Cube.5.2
+    3300042: Cube.6
+    3300044: Cube.6.2
+    3300046: Cube.7
+    3300048: Cube.7.2
+    3300050: Extrude NURBS
+    3300052: Extrude NURBS.1
+    3300054: Extrude NURBS.2
+    3300056: Plane
+    3300058: Rounding 1
+    3300060: Rounding 1.2
+    3300062: Rounding 1.3
+    3300064: Rounding 2
+    3300066: Rounding 2.2
+    3300068: Rounding 2.3
+    4300000: Plane
+    4300002: Cube.7
+    4300004: Cube.6
+    4300006: Cube.5
+    4300008: Cube.4
+    4300010: Cube.3
+    4300012: Cube.2
+    4300014: Cube.1
+    4300016: Cube
+    4300018: Cube.7.2
+    4300020: Cube.6.2
+    4300022: Cube.5.2
+    4300024: Cube.4.2
+    4300026: Cube.3.2
+    4300028: Cube.2.2
+    4300030: Cube.1.2
+    4300032: Cube.2.3
+    4300034: Capsule.2
+    4300036: Capsule.1
+    4300038: Capsule
+    4300040: Extrude NURBS.2
+    4300042: Rounding 1
+    4300044: Cap 1
+    4300046: Rounding 2
+    4300048: Cap 2
+    4300050: Extrude NURBS.1
+    4300052: Rounding 1.2
+    4300054: Cap 1.2
+    4300056: Rounding 2.2
+    4300058: Cap 2.2
+    4300060: Extrude NURBS
+    4300062: Rounding 1.3
+    4300064: Cap 1.3
+    4300066: Rounding 2.3
+    4300068: Cap 2.3
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
